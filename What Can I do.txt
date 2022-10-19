@@ -1,0 +1,11 @@
+you need someone:
+has experience of KPIs monitoring within scope of work for level of monitoring.
+has experience with monitoring tools and tools capabilities.
+follow and tracking the (SLA) Service Level Agreement with vendors. (update , add , remove what needed of KPIs for monitoring and its acceptable thresholds).
+Evaluate the current ways of monitoring and developments capabilites, in all vendors.
+Evaluate the current templates and dashboards using for monitoring, in all vendors (studying the capability of: monitoring in 15 minutes or lower or reducing delay of monitoring).
+evaluate and tracking for any gaps in monitoring (data availability, accuracy and continuity).
+Evaluate the team's capabilities and needed skills.
+evaluate the new hiring qualifications.
+Follow up periodically the resources qualifications and developments.
+
